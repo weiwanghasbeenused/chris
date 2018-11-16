@@ -1,0 +1,32 @@
+/*html {
+	font-size: 33px;
+}
+main{
+	text-align: center;
+}*/
+body{
+	margin:0;
+}
+.logo {
+	position: absolute;
+	transform: translate(-50%, -50%);
+	 50vw is equivalent to 50% of the view width 
+	font-size: 30vw;
+}
+.imgContainers{
+	position: absolute;
+	/*transform: translate(-50%, -50%);*/
+}
+.imgContainers img{
+	width:100%;
+}
+h1{
+	font-size: 2vw;
+	margin: 0;
+}
+#btn{
+	position:fixed;
+	top:5px;
+	left:5px;
+	cursor: pointer;
+}

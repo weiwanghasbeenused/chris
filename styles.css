@@ -1,0 +1,12 @@
+html {
+	font-size: 33px;
+}
+main{
+	text-align: center;
+}
+.logo {
+	position: absolute;
+	transform: translate(-50%, -50%);
+	/* 50vw is equivalent to 50% of the view width */
+	font-size: 30vw;
+}
